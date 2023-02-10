@@ -15,7 +15,6 @@ function peticionServidor(d1)
     ajax1.open('GET','servidor.php', true);
     ajax1.send();
 
-
 }
 
 
